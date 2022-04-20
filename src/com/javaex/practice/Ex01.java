@@ -16,6 +16,6 @@ public class Ex01 {
 		for(int i =0; i<intArray.length; i++) {
 			result = result + intArray[i];
 		}
-		System.out.println(result);
+		System.out.println(result); // 결과값 : 22
 	}
 }
